@@ -45,7 +45,5 @@ Each data structure operates independently, and data is not shared between them.
 Contributing
 If you find any issues or have suggestions for improvements, please feel free to contribute by submitting a pull request.
 
-License
-This project is licensed under the MIT License.
 
-Feel free to modify the readme according to your preferences and add any additional information that you think is relevant.
+
